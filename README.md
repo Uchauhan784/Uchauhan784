@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Backend, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://utkarsh-chauhan.netlify.app/](https://utkarsh-chauhan.netlify.app/)
+- 👨‍💻 All of my projects are available at [Utkarsh-chauhan_portfolio](https://utkarsh-chauhan.netlify.app/)
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6786ddfaf7b3074e9129fe35](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67a0f3ecf97830ef5e9406f0)
+- 📄 Know about my experiences [Utkarsh_chauhan_resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67a255dbf97830ef5e96d24b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
